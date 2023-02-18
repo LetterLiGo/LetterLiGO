@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetterLiGO&include_all_commits=true&count_private=true&hide=star&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetterLi1997&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LetterLiGo/LetterLiGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
