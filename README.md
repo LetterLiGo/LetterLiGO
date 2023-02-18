@@ -3,7 +3,7 @@
 - 🎓 Cyber Security PhD candidate at ZJU
 <img src="https://github-profile-trophy.vercel.app/?username=LetterLiGO&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetterLiGO&layout=compact)](https://github.com/gengyanlei/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetterLiGO)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetterLiGO&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LetterLiGo/LetterLiGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
